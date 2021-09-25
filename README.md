@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hakboi-pewpew
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning java
